@@ -6,9 +6,14 @@ https://to-do-app-blue-eight.vercel.app/
 # tools :
 - html
 - css
-- bootstrap v5
-- bootstrap-icons
+- javascript
+- IconScout
 
 
 # features
-- fully responsive website
+
+- user can add new task
+- show all tasks to user or pending
+- if user click task , it moved to completed list
+- user can edit or remove any task
+- all tasks saved by localstorage
